@@ -1,7 +1,7 @@
 # MBC5-Grimace-Flash
 Game Boy MBC5 Fram Flash Cart
 
-<img src="grimace1.jpg" width=327 height=435 ><img src="grimace_front.jpg" width=327 height=435><img src="grimace_back.jpg" width=327 height=435>
+<img src="grimace_front.jpg" width=327 height=435><img src="grimace_back.jpg" width=327 height=435><img src="grimace1.jpg" width=435 height=327 >
 
 This uses djedditt's footprints and outlines: https://github.com/djedditt/kicad-gamepaks
 
